@@ -1,0 +1,23 @@
+{
+  "name": "wechat2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mybot.js",
+  "dependencies": {
+    "wechaty": "^0.13.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebaokhanh/whywechat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebaokhanh/whywechat/issues"
+  },
+  "homepage": "https://github.com/lebaokhanh/whywechat#readme"
+}
