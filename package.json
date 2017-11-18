@@ -2,12 +2,12 @@
   "name": "wechat2017",
   "version": "1.0.0",
   "description": "",
-  "main": "mybot.js",
   "dependencies": {
     "wechaty": "^0.13.32"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node mybot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
